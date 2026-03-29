@@ -1,5 +1,5 @@
 ---
-title : Story of JSKDR
+title: Story of JSKDR
 ---
 # Story of JSKDR
 
